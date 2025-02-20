@@ -12,4 +12,20 @@ void main() {
   String morning = "Morgen";
   String S = "Heute";
   String spa = "";
+
+  String helloWorld = gdStr + spa + dayStr + worldStr + dd;
+
+  print(helloWorld);
+  int sum = a + seven;
+
+  print(sum);
+  String goodTime = c + timeStr;
+
+  print(goodTime);
+  String todayMorning = S + morning + dd;
+
+  print(todayMorning);
+  int bigSum = a * seven;
+
+  print(bigSum);
 }
